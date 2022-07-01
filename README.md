@@ -1,5 +1,5 @@
 <h1 align="center">Hola me llamo Tiziano Montenegro</h1>
-<h3 align="center">Me gusta la programacion</h3>
+<h3 align="center">Me gusta mucho la programación e intento aprender más</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
