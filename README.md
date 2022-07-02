@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://r72.cooltext.com/d.php?renderid=414436560470377&extension=gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
