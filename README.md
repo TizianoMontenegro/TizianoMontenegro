@@ -1,6 +1,3 @@
-<div align="center">
-</div>  
-  
 
 ## <div align="center">I'm Tiziano, a FrontEnd Developer 👨‍💻</div>  
   
@@ -23,7 +20,7 @@
 
 
 ### Frontend  
-<div align="center" style="background-color:#c9d1d9">  
+<div align="center" style="background: grey">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />  
@@ -62,13 +59,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tizielpro&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
