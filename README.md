@@ -1,5 +1,6 @@
 
-## <div align="center">I'm Tiziano, a FrontEnd Developer 👨‍💻</div>  
+# <div align="center">I'm Tiziano Montenegro</div>
+## <div align="center">a FrontEnd Developer 👨‍💻</div>  
   
 
 #### <div align="center">🔭 I am working on  [Personal Projects](https://github.com/tizielpro?tab=repositories) to increase my knowledge.</div>  
