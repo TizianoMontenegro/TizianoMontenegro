@@ -1,6 +1,6 @@
 <h2 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h2>
 
-![banner](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/acb629ca-9b90-4d8e-a552-ba89bad76815)
+![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 
 ## About Me 👨‍💻
 
