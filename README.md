@@ -16,7 +16,7 @@
   - 💻 am a Full Stack Developer.
   - 🔭 I work as Software Engineer building web apps.
   - 🌱 Studing every day more and more.
-  - ⚡ In my free time I solve problems on CodeWars and try to read tech articles.
+  - ⚡ In my free time I solve problems on CodeWars and try to stay informed about this field.
 
 ## 📩 Connect
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
