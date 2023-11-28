@@ -7,7 +7,7 @@
 - 🙍‍♂️Personal info.
   - borned in Argentina 🇦🇷
   - I'm 16 years old
-  - 🎉🎉🎉My birthday is March 3rd🎆
+  - 🎉🎉🎉My birthday is March 7th🎆
   - Studing English 🇺🇸
   - I play the guitar 🎸
   - I like contact sports 🥊
