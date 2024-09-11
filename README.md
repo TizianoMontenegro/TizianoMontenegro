@@ -9,8 +9,9 @@
 <!-- ## 💼 🛠 &nbsp;Languages and Tools : -->
 
 <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
-
+<!--
 ## 📋 Current Goals
 - [ ] Learn Git well enough. 
 - [ ] Become Data Science or Cibersecurity or Backend.
 - [ ] Develop in projects Open Source. 
+-->
