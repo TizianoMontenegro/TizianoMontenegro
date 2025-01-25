@@ -1,12 +1,21 @@
 <h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
 
+### I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
+
 ![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 
 ## I work with
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,react,flask,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,javascript,typescript,react,flask,html,css,git,github,vscode)](https://skillicons.dev)
+
+## Operative Systems
+[![My Skills](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
 
 ## I have used
-[![My Skills](https://skillicons.dev/icons?i=c,nextjs,angular,jquery,tailwindcss,bootstrap,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,nextjs,angular,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
+
+## Goals
+[![My Skills](https://skillicons.dev/icons?i=solidity,django,cpp)](https://skillicons.dev)
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,flask,javascript,typescript,html,css,react&perline=3)](https://skillicons.dev)
 # CONTACT
@@ -28,6 +37,9 @@
 <a href="https://www.udemy.com/certificate/UC-412cea72-9b35-427b-8019-cda1f36dc946/" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="" alt="" width="500"/>&nbsp;
 </a>
+
+#### In course one of Artificial Intelligence with Python
+
 <!--
 ## 📋 Current Goals
 - [ ] Learn Git well enough. 
