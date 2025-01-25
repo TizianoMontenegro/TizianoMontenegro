@@ -36,10 +36,10 @@
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="700"/>&nbsp;
 </a>
 <a href="https://www.udemy.com/certificate/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390/" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="Master in JavaScript" alt="Master in JavaScript" width="380"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="Master in JavaScript" alt="Master in JavaScript" width="390"/>&nbsp;
 </a>
 <a href="https://www.udemy.com/certificate/UC-412cea72-9b35-427b-8019-cda1f36dc946/" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="Master in CSS" alt="Master in CSS" width="380"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="Master in CSS" alt="Master in CSS" width="390"/>&nbsp;
 </a>
 
 #### In course one of Artificial Intelligence with Python
