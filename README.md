@@ -33,13 +33,13 @@
 ### Click some certificate to verify it.
 
 <a href="https://certificates.cs50.io/7bb466dd-c10b-4769-bf63-4c885013b122.pdf?size=letter" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="" alt="" width="700"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="700"/>&nbsp;
 </a>
 <a href="https://www.udemy.com/certificate/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390/" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="" alt="" width="500"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="Master in JavaScript" alt="Master in JavaScript" width="500"/>&nbsp;
 </a>
 <a href="https://www.udemy.com/certificate/UC-412cea72-9b35-427b-8019-cda1f36dc946/" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="" alt="" width="500"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="Master in CSS" alt="Master in CSS" width="500"/>&nbsp;
 </a>
 
 #### In course one of Artificial Intelligence with Python
