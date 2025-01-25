@@ -1,14 +1,18 @@
-<h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
+![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 
-### I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
+## I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
+
+<!--
+<h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
 
 ![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 
-## I work with
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite,javascript,typescript,react,flask,html,css,git,github,vscode)](https://skillicons.dev)
-
 ## Operative Systems
 [![My Skills](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
+-->
+
+## I work with
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,javascript,typescript,react,flask,html,css,git,github,vscode,debian,windows)](https://skillicons.dev)
 
 ## I have used
 [![My Skills](https://skillicons.dev/icons?i=c,nextjs,angular,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
