@@ -30,7 +30,7 @@
 
 <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
-### Click some certificate to verify it.
+### Press Ctrl + Click at some certificate to verify it in another page.
 
 <a href="https://certificates.cs50.io/7bb466dd-c10b-4769-bf63-4c885013b122.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="700"/>&nbsp;
