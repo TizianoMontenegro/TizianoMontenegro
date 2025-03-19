@@ -17,8 +17,13 @@
 ## I have used
 [![My Skills](https://skillicons.dev/icons?i=c,nextjs,angular,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
 
+<!--
 ## Goals
+Be able to build AI models 
+-->
+<!--
 [![My Skills](https://skillicons.dev/icons?i=solidity,django,cpp)](https://skillicons.dev)
+-->
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,flask,javascript,typescript,html,css,react&perline=3)](https://skillicons.dev)
