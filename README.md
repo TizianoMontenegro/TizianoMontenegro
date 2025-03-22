@@ -1,6 +1,7 @@
 ![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 
 ## I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
+## Languages: Spanish and English
 
 <!--
 <h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
