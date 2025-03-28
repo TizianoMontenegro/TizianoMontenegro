@@ -13,7 +13,7 @@
 -->
 
 ## I work with
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite,javascript,typescript,react,flask,html,css,git,github,vscode,debian,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,sqlite,flask,html,css,git,github,vscode,debian,windows)](https://skillicons.dev)
 
 ## I have used
 [![My Skills](https://skillicons.dev/icons?i=c,nextjs,angular,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
