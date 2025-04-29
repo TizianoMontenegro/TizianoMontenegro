@@ -18,10 +18,10 @@
 -->
 
 ## I work with
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bun,nodejs,python,flask,sqlite,html,css,git,github,vite,vscode,debian,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular,react,bun,nodejs,python,flask,sqlite,html,css,git,github,vite,vscode,debian,windows)](https://skillicons.dev)
 
 ## I have used
-[![My Skills](https://skillicons.dev/icons?i=c,nextjs,angular,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,nextjs,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
 
 <!--
 ## Goals
