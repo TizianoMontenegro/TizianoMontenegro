@@ -24,7 +24,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,angular,gsap,javascript,html,css)
 
 ## Dev Tools and OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,bun,npm,vite,vscode,sublime,debian,windows,terminal,wezterm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,bun,npm,vite,vscode,sublime,linux,debian,windows,terminal,wezterm)
 <!--
 ## AIs I usually use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
