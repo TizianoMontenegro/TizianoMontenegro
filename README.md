@@ -21,13 +21,19 @@
 [![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,flask)](https://skillicons.dev)
 
 ## JavaScript Frontend and Web
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,angular,javascript,html,css)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,angular,gsap,javascript,html,css)
 
 ## Dev Tools and OS
-[![My Skills](https://skillicons.dev/icons?i=git,github,bun,npm,vite,vscode,debian,windows)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,bun,npm,vite,vscode,sublime,debian,windows,terminal,wezterm)
+<!--
+## AIs I usually use
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
+-->
+## Offimatic
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,capcut)
 
 ## I have used in the past
-[![My Skills](https://skillicons.dev/icons?i=c,nextjs,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)
 
 <!--
 ## Goals
