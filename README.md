@@ -1,12 +1,12 @@
-# Software Developer
+# Software Developer | Web Applications and AI
 <!--
 [](url)![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 -->
-## Web Applications and AI
+
 <!--
 ## I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
 -->
-## Languages: Spanish and English
+## Languages: English and Spanish (mother language)
 
 <!--
 <h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
@@ -17,10 +17,16 @@
 [![My Skills](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
 -->
 
-## I work with
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular,react,bun,nodejs,python,flask,sqlite,html,css,git,github,vite,vscode,debian,windows)](https://skillicons.dev)
+## Python ML and Backend
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,flask)](https://skillicons.dev)
 
-## I have used
+## JavaScript Frontend and Web
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,angular,javascript,html,css)](https://skillicons.dev)
+
+## Dev Tools and OS
+[![My Skills](https://skillicons.dev/icons?i=git,github,bun,npm,vite,vscode,debian,windows)](https://skillicons.dev)
+
+## I have used in the past
 [![My Skills](https://skillicons.dev/icons?i=c,nextjs,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)](https://skillicons.dev)
 
 <!--
