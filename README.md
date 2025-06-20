@@ -18,13 +18,16 @@
 -->
 
 ## Python ML and Backend
-[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,flask)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,scikitlearn,tensorflow,anaconda)
 
 ## JavaScript Frontend and Web
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,angular,gsap,javascript,html,css)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,gsap,javascript,html,css)
+<!--
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwindcss,astro)
+-->
 
 ## Dev Tools and OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,bun,npm,vite,vscode,sublime,linux,debian,windows,terminal,wezterm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,bun,npm,vite,cursor,vscode,sublime,debian,windows,wezterm)
 <!--
 ## AIs I usually use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
@@ -33,7 +36,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,capcut)
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,jquery,tailwindcss,bootstrap,astro,anaconda,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,jquery,bootstrap,pycharm)
 
 <!--
 ## Goals
