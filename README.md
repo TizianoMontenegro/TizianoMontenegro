@@ -18,7 +18,7 @@
 -->
 
 ## Python ML and Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,scikitlearn,tensorflow,anaconda)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,sqlite,flask,scikitlearn,tensorflow,anaconda)
 
 ## JavaScript Frontend and Web
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,gsap,javascript,html,css)
