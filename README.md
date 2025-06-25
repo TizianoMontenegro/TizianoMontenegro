@@ -54,7 +54,7 @@ Be able to build AI models
 
 <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
-### Press Ctrl + Click at some certificate to verify it in another page.
+### Press Ctrl + Click on some certificate to verify it in another page.
 
 <a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="390"/>&nbsp;
