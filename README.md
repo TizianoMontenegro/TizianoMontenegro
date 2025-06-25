@@ -35,8 +35,6 @@
 ## Offimatic
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,capcut)
 
-## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,jquery,bootstrap,pycharm)
 
 <!--
 ## Goals
@@ -58,8 +56,11 @@ Be able to build AI models
 
 ### Press Ctrl + Click at some certificate to verify it in another page.
 
+<a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="390"/>&nbsp;
+</a>
 <a href="https://certificates.cs50.io/7bb466dd-c10b-4769-bf63-4c885013b122.pdf?size=letter" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="700"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="390"/>&nbsp;
 </a>
 <a href="https://www.udemy.com/certificate/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390/" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="Master in JavaScript" alt="Master in JavaScript" width="390"/>&nbsp;
@@ -68,8 +69,13 @@ Be able to build AI models
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="Master in CSS" alt="Master in CSS" width="390"/>&nbsp;
 </a>
 
-#### In course one of Artificial Intelligence with Python
 
+## I have used in the past
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,jquery,bootstrap,pycharm)
+
+<!--
+#### In course one of Artificial Intelligence with Python
+-->
 <!--
 ## 📋 Current Goals
 - [ ] Learn Git well enough. 
