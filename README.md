@@ -74,7 +74,7 @@ Be able to build AI models
 
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,jquery,bootstrap,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,nextjs,tailwindcss,jquery,bootstrap,pycharm)
 
 <!--
 #### In course one of Artificial Intelligence with Python
