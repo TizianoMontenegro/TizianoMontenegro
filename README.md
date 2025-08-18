@@ -24,7 +24,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,sqlite,flask,scikitlearn,tensorflow,anaconda)
 
 ## JavaScript Frontend and Web
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,gsap,javascript,html,css)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap)
 <!--
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwindcss,astro)
 -->
@@ -77,7 +77,7 @@ Be able to build AI models
 
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,angular,nextjs,tailwindcss,jquery,bootstrap,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,angular,nextjs,jquery,bootstrap,pycharm)
 
 <!--
 #### In course one of Artificial Intelligence with Python
