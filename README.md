@@ -17,11 +17,11 @@
 [![My Skills](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
 -->
 
-## Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker)
+## Keep Learning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,mysql,postgresql)
 
 ## Python ML and Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,sqlite,flask,scikitlearn,tensorflow,anaconda)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,sqlite,flask)
 
 ## JavaScript Frontend and Web
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap)
@@ -30,7 +30,7 @@
 -->
 
 ## Dev Tools and OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,vscode,cursor,sublime,debian,windows,wezterm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,vscode,cursor,anaconda,debian,windows,wezterm)
 <!--
 ## AIs I usually use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
