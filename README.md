@@ -58,15 +58,23 @@ Be able to build AI models
 <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
 ### Press Ctrl + Click on some certificate to verify it in another page.
-
+<!--
 <a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="790"/>&nbsp;
+</a>
+-->
+
+<a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="390"/>&nbsp;
+</a>
+<a href="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.pdf?size=letter" target="_blank">
+  <img src="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.png?size=letter" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="390"/>&nbsp;
 </a>
 <a href="https://certificates.cs50.io/7bb466dd-c10b-4769-bf63-4c885013b122.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="390"/>&nbsp;
 </a>
-<a href="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.pdf?size=letter" target="_blank">
-  <img src="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.png?size=letter" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="390"/>&nbsp;
+<a href="https://certificates.simplicdn.net/share/9019235_93951051758414971759.pdf" target="_blank">
+  <img src="https://certificates.simplicdn.net/share/9019235_93951051758414970139.png" title="Scikit-Learn for Beginners" alt="Scikit-Learn for Beginners Course" width="390"/>&nbsp;
 </a>
 <a href="https://www.udemy.com/certificate/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390/" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="Master in JavaScript" alt="Master in JavaScript" width="390"/>&nbsp;
