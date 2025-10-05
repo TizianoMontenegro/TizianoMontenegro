@@ -1,3 +1,10 @@
+```
+▄▄▄▄▄▪  ·▄▄▄▄•▪   ▄▄▄·  ▐ ▄           • ▌ ▄ ·.        ▐ ▄ ▄▄▄▄▄▄▄▄ . ▐ ▄ ▄▄▄ . ▄▄ • ▄▄▄        
+•██  ██ ▪▀·.█▌██ ▐█ ▀█ •█▌▐█▪         ·██ ▐███▪▪     •█▌▐█•██  ▀▄.▀·•█▌▐█▀▄.▀·▐█ ▀ ▪▀▄ █·▪     
+ ▐█.▪▐█·▄█▀▀▀•▐█·▄█▀▀█ ▐█▐▐▌ ▄█▀▄     ▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐▐▌ ▐█.▪▐▀▀▪▄▐█▐▐▌▐▀▀▪▄▄█ ▀█▄▐▀▀▄  ▄█▀▄ 
+ ▐█▌·▐█▌█▌▪▄█▀▐█▌▐█ ▪▐▌██▐█▌▐█▌.▐▌    ██ ██▌▐█▌▐█▌.▐▌██▐█▌ ▐█▌·▐█▄▄▌██▐█▌▐█▄▄▌▐█▄▪▐█▐█•█▌▐█▌.▐▌
+ ▀▀▀ ▀▀▀·▀▀▀ •▀▀▀ ▀  ▀ ▀▀ █▪ ▀█▄▀▪    ▀▀  █▪▀▀▀ ▀█▄▀▪▀▀ █▪ ▀▀▀  ▀▀▀ ▀▀ █▪ ▀▀▀ ·▀▀▀▀ .▀  ▀ ▀█▄▀▪
+```
 # Software Developer | Web Applications and AI
 <!--
 [](url)![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
@@ -18,10 +25,10 @@
 -->
 
 ## Keep Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,mysql,postgresql)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,langchain,mysql,postgresql)
 
 ## Python ML and Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,sqlite,flask)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,sqlite,flask)
 
 ## JavaScript Frontend and Web
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap)
@@ -88,7 +95,7 @@ Be able to build AI models
 
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,angular,nextjs,jquery,bootstrap,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,astro,angular,jquery,c,bootstrap,pycharm)
 
 <!--
 #### In course one of Artificial Intelligence with Python
