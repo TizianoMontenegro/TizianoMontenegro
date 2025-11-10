@@ -50,7 +50,7 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 -->
 
 ## Dev Tools and OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,vscode,cursor,anaconda,debian,windows,wezterm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,git,github,vite,vscode,anaconda,debian,windows,wezterm)
 <!--
 ## AIs I usually use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
