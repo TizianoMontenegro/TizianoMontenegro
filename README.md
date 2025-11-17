@@ -84,8 +84,13 @@ Be able to build AI models
 </a>
 -->
 
+<a href="file:///C:/Users/Acer/Documents/certificate.pdf" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fc57lmk4jfra8dzba_cmcg99l7v0010l504z63c0ked_course_1065.png&w=1920&q=75" title="Introduction to RAG
+ CodeSignal Course" alt="Introduction to RAG
+ CodeSignal Course" width="390"/>&nbsp;
+</a>
 <a href="https://certificates.cs50.io/592e207d-fc25-4497-9073-4aa12aeca9c6.pdf?size=letter" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50%20SQL.png" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="790"/>&nbsp;
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50%20SQL.png" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="390"/>&nbsp;
 </a>
 <a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="390"/>&nbsp;
