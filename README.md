@@ -84,7 +84,10 @@ Be able to build AI models
 </a>
 -->
 
-<a href="file:///C:/Users/Acer/Documents/certificate.pdf" target="_blank">
+<a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fals6jgaih2t5i8d4_cmcg99l7v0010l504z63c0ked_course_1066.png&w=1920&q=75" title="Text Representation Techniques for RAG Systems CodeSignal Course" alt="Text Representation Techniques for RAG Systems CodeSignal Course" width="390"/>&nbsp;
+</a>
+<a href="" target="_blank">
   <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fc57lmk4jfra8dzba_cmcg99l7v0010l504z63c0ked_course_1065.png&w=1920&q=75" title="Introduction to RAG
  CodeSignal Course" alt="Introduction to RAG
  CodeSignal Course" width="390"/>&nbsp;
