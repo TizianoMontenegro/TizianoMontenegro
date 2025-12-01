@@ -38,10 +38,10 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 -->
 
 ## Keep Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,langchain,mysql,postgresql)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,mysql,postgresql)
 
 ## Python ML and Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,sqlite,flask)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain,django,sqlite,flask)
 
 ## JavaScript Frontend and Web
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap)
