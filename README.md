@@ -85,6 +85,9 @@ Be able to build AI models
 -->
 
 <a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fzewq0amizofzxtca_cmcg99l7v0010l504z63c0ked_course_1067.png&w=1920&q=75" title="Scaling up RAG with Vector Databases CodeSignal Course" alt="Scaling up RAG with Vector Databases CodeSignal Course" width="390"/>&nbsp;
+</a>
+<a href="" target="_blank">
   <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fals6jgaih2t5i8d4_cmcg99l7v0010l504z63c0ked_course_1066.png&w=1920&q=75" title="Text Representation Techniques for RAG Systems CodeSignal Course" alt="Text Representation Techniques for RAG Systems CodeSignal Course" width="390"/>&nbsp;
 </a>
 <a href="" target="_blank">
