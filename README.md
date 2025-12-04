@@ -84,17 +84,6 @@ Be able to build AI models
 </a>
 -->
 
-<a href="" target="_blank">
-  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fzewq0amizofzxtca_cmcg99l7v0010l504z63c0ked_course_1067.png&w=1920&q=75" title="Scaling up RAG with Vector Databases CodeSignal Course" alt="Scaling up RAG with Vector Databases CodeSignal Course" width="390"/>&nbsp;
-</a>
-<a href="" target="_blank">
-  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fals6jgaih2t5i8d4_cmcg99l7v0010l504z63c0ked_course_1066.png&w=1920&q=75" title="Text Representation Techniques for RAG Systems CodeSignal Course" alt="Text Representation Techniques for RAG Systems CodeSignal Course" width="390"/>&nbsp;
-</a>
-<a href="" target="_blank">
-  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fc57lmk4jfra8dzba_cmcg99l7v0010l504z63c0ked_course_1065.png&w=1920&q=75" title="Introduction to RAG
- CodeSignal Course" alt="Introduction to RAG
- CodeSignal Course" width="390"/>&nbsp;
-</a>
 <a href="https://certificates.cs50.io/592e207d-fc25-4497-9073-4aa12aeca9c6.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50%20SQL.png" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="390"/>&nbsp;
 </a>
@@ -104,6 +93,20 @@ Be able to build AI models
 <a href="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50P.png" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="390"/>&nbsp;
 </a>
+<a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fzewq0amizofzxtca_cmcg99l7v0010l504z63c0ked_course_1067.png&w=1920&q=75" title="Scaling up RAG with Vector Databases CodeSignal Course" alt="Scaling up RAG with Vector Databases CodeSignal Course" width="390"/>&nbsp;
+</a>
+<a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fals6jgaih2t5i8d4_cmcg99l7v0010l504z63c0ked_course_1066.png&w=1920&q=75" title="Text Representation Techniques for RAG Systems CodeSignal Course" alt="Text Representation Techniques for RAG Systems CodeSignal Course" width="390"/>&nbsp;
+</a>
+<a href="https://www.udemy.com/certificate/UC-412cea72-9b35-427b-8019-cda1f36dc946/" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="Master in CSS" alt="Master in CSS" width="390"/>&nbsp;
+</a>
+<a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fc57lmk4jfra8dzba_cmcg99l7v0010l504z63c0ked_course_1065.png&w=1920&q=75" title="Introduction to RAG
+ CodeSignal Course" alt="Introduction to RAG
+ CodeSignal Course" width="390"/>&nbsp;
+</a>
 <a href="https://certificates.cs50.io/7bb466dd-c10b-4769-bf63-4c885013b122.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="390"/>&nbsp;
 </a>
@@ -112,9 +115,6 @@ Be able to build AI models
 </a>
 <a href="https://www.udemy.com/certificate/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390/" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-35d8e60e-b268-4c04-9f90-f9fb3e614390.jpg" title="Master in JavaScript" alt="Master in JavaScript" width="390"/>&nbsp;
-</a>
-<a href="https://www.udemy.com/certificate/UC-412cea72-9b35-427b-8019-cda1f36dc946/" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/UC-412cea72-9b35-427b-8019-cda1f36dc946.jpg" title="Master in CSS" alt="Master in CSS" width="390"/>&nbsp;
 </a>
 
 
