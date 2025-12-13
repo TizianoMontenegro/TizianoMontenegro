@@ -90,11 +90,19 @@ Be able to build AI models
 <a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="390"/>&nbsp;
 </a>
+<a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fmpyqb2zl4yqyc1d1_cmcg99l7v0010l504z63c0ked_path_237.png&w=1920&q=75" title="Foundations of Retrieval Augmented Generation (RAG) Systems
+ CodeSignal Course" alt="Foundations of Retrieval Augmented Generation (RAG) Systems
+ CodeSignal Course" width="390"/>&nbsp;
+</a>
 <a href="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50P.png" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="390"/>&nbsp;
 </a>
 <a href="" target="_blank">
   <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fzewq0amizofzxtca_cmcg99l7v0010l504z63c0ked_course_1067.png&w=1920&q=75" title="Scaling up RAG with Vector Databases CodeSignal Course" alt="Scaling up RAG with Vector Databases CodeSignal Course" width="390"/>&nbsp;
+</a>
+<a href="" target="_blank">
+  <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fu4cdzhbz4tw8nuib_cmcg99l7v0010l504z63c0ked_course_1068.png&w=1920&q=75" title="Beyond Basic RAG: Improving our Pipeline CodeSignal Course" alt="Beyond Basic RAG: Improving our Pipeline CodeSignal Course" width="390"/>&nbsp;
 </a>
 <a href="" target="_blank">
   <img src="https://codesignal.com/_next/image?url=https%3A%2F%2Fk3-production-bucket.s3.amazonaws.com%2Fcertificates%2Fals6jgaih2t5i8d4_cmcg99l7v0010l504z63c0ked_course_1066.png&w=1920&q=75" title="Text Representation Techniques for RAG Systems CodeSignal Course" alt="Text Representation Techniques for RAG Systems CodeSignal Course" width="390"/>&nbsp;
