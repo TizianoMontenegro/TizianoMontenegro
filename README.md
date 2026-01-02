@@ -26,7 +26,7 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 <!--
 ## I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
 -->
-## Languages: English and Spanish (mother language)
+## Languages: English, Spanish (mother language), and Italian (basic)
 
 <!--
 <h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
@@ -38,19 +38,19 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 -->
 
 ## Keep Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,mysql,postgresql)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,postgresql,gradio)
 
 ## Python ML and Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain,django,sqlite,flask)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain,django,sqlite)
 
-## JavaScript Frontend and Web
+## TypeScript Frontend and Web
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap)
 <!--
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwindcss,astro)
 -->
 
 ## Dev Tools and OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,git,github,vite,vscode,anaconda,debian,windows,wezterm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,warp,git,github,bun,vite,jupyter,vscode,anaconda,debian,windows)
 <!--
 ## AIs I usually use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
@@ -127,7 +127,7 @@ Be able to build AI models
 
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,astro,angular,jquery,c,bootstrap,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask,mysql,nextjs,astro,angular,jquery,c,bootstrap,pycharm)
 
 <!--
 #### In course one of Artificial Intelligence with Python
