@@ -79,10 +79,20 @@ Be able to build AI models
 
 ### Press Ctrl + Click on some certificate to verify it in another page.
 <!--
+STANDARD IMG SIZES
+790
+390
+-->
+<!--
 <a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="790"/>&nbsp;
 </a>
 -->
+
+
+<a href="https://learn.nvidia.com/certificates?id=0gIMbyFdTiSiOSJ8wEloZA#" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/Building%20RAG%20Agents%20with%20LLMs.png" title="Building RAG Agents with LLMs NVIDIA Course" alt="Building RAG Agents with LLMs NVIDIA Course" width="790"/>&nbsp;
+</a>
 
 <a href="https://certificates.cs50.io/592e207d-fc25-4497-9073-4aa12aeca9c6.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50%20SQL.png" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="390"/>&nbsp;
