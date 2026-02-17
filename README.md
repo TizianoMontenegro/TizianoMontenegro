@@ -38,7 +38,7 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 -->
 
 ## Keep Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,scikitlearn,tensorflow,postgresql,gradio)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mcp,docker,scikitlearn,tensorflow,postgresql,gradio)
 
 ## Python ML and Backend
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain,django,sqlite)
