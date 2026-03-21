@@ -26,7 +26,19 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 <!--
 ## I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
 -->
-## Languages: English, Spanish (mother language), and Italian (basic)
+## Languages
+ - English
+ - Spanish (mother language)
+ - Italian (basic)
+
+## Recreation
+I play Spanish guitar and Electric guitar.
+Genres I like to play are...
+Spanish Guitar:
+ - Flamenco 🦩
+Electric Guitar:
+ - Rock 🤘
+ - Metal 🎸
 
 <!--
 <h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
@@ -44,14 +56,15 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain,django,sqlite)
 
 ## TypeScript Frontend and Web
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap,bun,vite)
 <!--
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwindcss,astro)
 -->
 
-## Dev Tools and OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,warp,git,github,bun,vite,jupyter,vscode,anaconda,debian,windows)
+## Development Env
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,warp,git,jupyter,anaconda)
 <!--
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,warp,git,github,bun,vite,jupyter,vscode,anaconda,debian,windows)
 ## AIs I usually use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek)
 -->
@@ -139,7 +152,7 @@ STANDARD IMG SIZES
 
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask,mysql,nextjs,astro,angular,jquery,c,bootstrap,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,flask,mysql,nextjs,astro,angular,jquery,c,bootstrap,pycharm)
 
 <!--
 #### In course one of Artificial Intelligence with Python
