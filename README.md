@@ -18,7 +18,7 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
         _______\///________\///__\///////////__\///___\////////\//__\///____\///_____\/////_______________\///______________\///__\///__
 ```
 -->
-# Software Developer | Web Applications and AI
+# Software Developer | AI & Web Applications focused in Cybersecurity
 <!--
 [](url)![banner (3)](https://github.com/TiziDevScripter/TiziDevScripter/assets/91438170/9289d541-ee93-4b69-8b72-81ac878e8cda)
 -->
