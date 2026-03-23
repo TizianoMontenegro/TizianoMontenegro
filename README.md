@@ -117,6 +117,9 @@ STANDARD IMG SIZES
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50P.png" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="390"/>&nbsp;
 </a>
 
+<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-TIZIANO-MONTENEGRO-kiq32gim.pdf" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/Certificado-TIZIANO-MONTENEGRO-kiq32gim.png" title="Introduction to AI Development by BIG School and Brais Moure" alt="Introduction to AI Development by BIG School and Brais Moure" width="257"/>&nbsp;
+</a>
 <a href="https://certificates.cs50.io/7bb466dd-c10b-4769-bf63-4c885013b122.pdf?size=letter" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50x.png" title="Computer Science Harvard Course" alt="Computer Science Harvard Course" width="257"/>&nbsp;
 </a>
