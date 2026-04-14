@@ -104,19 +104,22 @@ STANDARD IMG SIZES
 -->
 
 
+<a href="https://cs50.harvard.edu/certificates/3220de14-7c28-47be-b2f7-298b73d874ca" target="_blank">
+  <img src="https://certificates.cs50.io/3220de14-7c28-47be-b2f7-298b73d874ca.png?size=letter" title="Cybersecurity Harvard Course" alt="Cybersecurity Harvard Course" width="390"/>&nbsp;
+</a>
 <a href="https://learn.nvidia.com/certificates?id=0gIMbyFdTiSiOSJ8wEloZA#" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/Building%20RAG%20Agents%20with%20LLMs.png" title="Building RAG Agents with LLMs NVIDIA Course" alt="Building RAG Agents with LLMs NVIDIA Course" width="390"/>&nbsp;
 </a>
-<a href="https://certificates.cs50.io/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.pdf?size=letter" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50AI.png" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Computer Science Harvard Course" width="390"/>&nbsp;
+<a href="https://cs50.harvard.edu/certificates/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397" target="_blank">
+  <img src="https://cs50.harvard.edu/certificates/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.png?size=letter" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Harvard Course" width="390"/>&nbsp;
 </a>
-<a href="https://certificates.cs50.io/592e207d-fc25-4497-9073-4aa12aeca9c6.pdf?size=letter" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50%20SQL.png" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="390"/>&nbsp;
-</a>
-<a href="https://certificates.cs50.io/393d42d4-3530-41ae-8af1-4c5e5377cdf1.pdf?size=letter" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/CS50P.png" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="390"/>&nbsp;
+<a href="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6" target="_blank">
+  <img src="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6.png?size=letter" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="390"/>&nbsp;
 </a>
 
+<a href="https://cs50.harvard.edu/certificates/7bb466dd-c10b-4769-bf63-4c885013b122" target="_blank">
+  <img src="https://cs50.harvard.edu/certificates/7bb466dd-c10b-4769-bf63-4c885013b122.png?size=letter" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="257"/>&nbsp;
+</a>
 <a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-TIZIANO-MONTENEGRO-kiq32gim.pdf" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/Certificado-TIZIANO-MONTENEGRO-kiq32gim.png" title="Introduction to AI Development by BIG School and Brais Moure" alt="Introduction to AI Development by BIG School and Brais Moure" width="257"/>&nbsp;
 </a>
