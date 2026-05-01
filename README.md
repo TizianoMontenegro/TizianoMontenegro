@@ -34,8 +34,10 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 ## Recreation
 I play Spanish guitar and Electric guitar.
 Genres I like to play are...
+
 Spanish Guitar:
  - Flamenco 🦩
+
 Electric Guitar:
  - Rock 🤘
  - Metal 🎸
