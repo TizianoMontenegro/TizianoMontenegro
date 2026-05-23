@@ -1,3 +1,4 @@
+<!--
 ```
 ▄▄▄▄▄▪  ·▄▄▄▄•▪   ▄▄▄·  ▐ ▄           • ▌ ▄ ·.        ▐ ▄ ▄▄▄▄▄▄▄▄ . ▐ ▄ ▄▄▄ . ▄▄ • ▄▄▄        
 •██  ██ ▪▀·.█▌██ ▐█ ▀█ •█▌▐█▪         ·██ ▐███▪▪     •█▌▐█•██  ▀▄.▀·•█▌▐█▀▄.▀·▐█ ▀ ▪▀▄ █·▪     
@@ -5,7 +6,6 @@
  ▐█▌·▐█▌█▌▪▄█▀▐█▌▐█ ▪▐▌██▐█▌▐█▌.▐▌    ██ ██▌▐█▌▐█▌.▐▌██▐█▌ ▐█▌·▐█▄▄▌██▐█▌▐█▄▄▌▐█▄▪▐█▐█•█▌▐█▌.▐▌
  ▀▀▀ ▀▀▀·▀▀▀ •▀▀▀ ▀  ▀ ▀▀ █▪ ▀█▄▀▪    ▀▀  █▪▀▀▀ ▀█▄▀▪▀▀ █▪ ▀▀▀  ▀▀▀ ▀▀ █▪ ▀▀▀ ·▀▀▀▀ .▀  ▀ ▀█▄▀▪
 ```
-<!--
 ```
 __/\\\\\\\\\\\\\\\_________________________________________________________________________________/\\\\____________/\\\\_______        
  _\///////\\\/////_________________________________________________________________________________\/\\\\\\________/\\\\\\_______       
@@ -26,21 +26,6 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 <!--
 ## I'm introducing myself in the world of AI, Web 3.0, crypto, smart contracts, and blockchain.
 -->
-## Languages
- - English
- - Spanish (mother language)
- - Italian (basic)
-
-## Recreation
-I play Spanish guitar and Electric guitar.
-Genres I like to play are...
-
-Spanish Guitar:
- - Flamenco 🦩
-
-Electric Guitar:
- - Rock 🤘
- - Metal 🎸
 
 <!--
 <h1 align="center"> Hello there!✌ I'm Tiziano Montenegro.😁 </h1>
@@ -76,6 +61,23 @@ Electric Guitar:
 ## Offimatic
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,capcut)
 
+
+
+## Languages
+ - English
+ - Spanish (mother language)
+ - Italian (basic)
+
+## Recreation
+I play Spanish guitar and Electric guitar.
+Genres I like to play are...
+
+Spanish Guitar:
+ - Flamenco 🦩
+
+Electric Guitar:
+ - Rock 🤘
+ - Metal 🎸
 
 <!--
 ## Goals
@@ -165,7 +167,7 @@ STANDARD IMG SIZES
 
 
 ## I have used in the past
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,flask,mysql,nextjs,astro,angular,jquery,c,bootstrap,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,debian,flask,mysql,nextjs,astro,angular,jquery,c,bootstrap,pycharm)
 
 <!--
 #### In course one of Artificial Intelligence with Python
