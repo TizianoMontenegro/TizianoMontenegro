@@ -49,22 +49,25 @@ Electric Guitar:
 
 ## Operative Systems
 [![My Skills](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
--->
 
 ## Keep Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jwt,tanstack,biome,djangorestframework,mcp,docker,scikitlearn,tensorflow,postgresql,gradio)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=)
+-->
 
-## Python ML and Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain,django,sqlite)
+## Artificial Intelligence
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,mcp,scikitlearn,opencv,gradio)
+
+## Python Backend
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,django,djangorestframework,sqlite,jwt)
 
 ## TypeScript Frontend and Web
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tailwindcss,gsap,bun,vite)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tanstack,tailwindcss,gsap)
 <!--
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,tailwindcss,astro)
 -->
 
 ## Development Env
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,warp,git,jupyter,anaconda)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,warp,ollama,cursor,docker,git,bun,vite,biome,jupyter,anaconda)
 <!--
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,warp,git,github,bun,vite,jupyter,vscode,anaconda,debian,windows)
 ## AIs I usually use
@@ -105,7 +108,9 @@ STANDARD IMG SIZES
 </a>
 -->
 
-
+<a href="https://courses.opencv.org/certificates/e4a99e10384748ccab82fda175f49547" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/PyTorch%20Bootcamp%20Certificate_OpenCV.png" title="PyTorch OpenCV Course" alt="PyTorch OpenCV Course" width="390"/>&nbsp;
+</a>
 <a href="https://cs50.harvard.edu/certificates/3220de14-7c28-47be-b2f7-298b73d874ca" target="_blank">
   <img src="https://certificates.cs50.io/3220de14-7c28-47be-b2f7-298b73d874ca.png?size=letter" title="Cybersecurity Harvard Course" alt="Cybersecurity Harvard Course" width="390"/>&nbsp;
 </a>
@@ -115,10 +120,10 @@ STANDARD IMG SIZES
 <a href="https://cs50.harvard.edu/certificates/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397" target="_blank">
   <img src="https://cs50.harvard.edu/certificates/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.png?size=letter" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Harvard Course" width="390"/>&nbsp;
 </a>
-<a href="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6" target="_blank">
-  <img src="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6.png?size=letter" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="390"/>&nbsp;
-</a>
 
+<a href="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6" target="_blank">
+  <img src="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6.png?size=letter" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="257"/>&nbsp;
+</a>
 <a href="https://cs50.harvard.edu/certificates/7bb466dd-c10b-4769-bf63-4c885013b122" target="_blank">
   <img src="https://cs50.harvard.edu/certificates/7bb466dd-c10b-4769-bf63-4c885013b122.png?size=letter" title="Programming with Python Harvard Course" alt="Programming with Python Harvard Course" width="257"/>&nbsp;
 </a>
