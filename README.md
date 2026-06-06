@@ -110,6 +110,9 @@ STANDARD IMG SIZES
 </a>
 -->
 
+<a href="https://www.credly.com/badges/605a81e7-55f6-4dc7-bea4-7aab3ba7fe38/public_url" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkingBasicsUpdate20260606-32-3ytuv5.pdf%20-%20Brave%2006_06_2026%2013_28_46.png" title="Networking Basics Cisco Course" alt="Networking Basics Cisco Course" width="390"/>&nbsp;
+</a>
 <a href="https://courses.opencv.org/certificates/e4a99e10384748ccab82fda175f49547" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/PyTorch%20Bootcamp%20Certificate_OpenCV.png" title="PyTorch OpenCV Course" alt="PyTorch OpenCV Course" width="390"/>&nbsp;
 </a>
