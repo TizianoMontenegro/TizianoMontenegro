@@ -110,9 +110,6 @@ STANDARD IMG SIZES
 </a>
 -->
 
-<a href="https://www.credly.com/badges/605a81e7-55f6-4dc7-bea4-7aab3ba7fe38/public_url" target="_blank">
-  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkingBasicsUpdate20260606-32-3ytuv5.pdf%20-%20Brave%2006_06_2026%2013_28_46.png" title="Networking Basics Cisco Course" alt="Networking Basics Cisco Course" width="390"/>&nbsp;
-</a>
 <a href="https://courses.opencv.org/certificates/e4a99e10384748ccab82fda175f49547" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/PyTorch%20Bootcamp%20Certificate_OpenCV.png" title="PyTorch OpenCV Course" alt="PyTorch OpenCV Course" width="390"/>&nbsp;
 </a>
@@ -126,6 +123,21 @@ STANDARD IMG SIZES
   <img src="https://cs50.harvard.edu/certificates/e7bf8cba-c7d7-4a4f-bc87-a87c23cda397.png?size=letter" title="Artificial Intelligence Harvard Course" alt="Artificial Intelligence Harvard Course" width="390"/>&nbsp;
 </a>
 
+
+<!-- 
+<a href="" target="_blank">
+  <img src="" title=" Cisco Course" alt=" Cisco Course" width="257"/>&nbsp;
+</a> 
+-->
+<!-- <a href="" target="_blank">
+  <img src="" title=" Cisco Course" alt=" Cisco Course" width="257"/>&nbsp;
+</a>
+<a href="" target="_blank">
+  <img src="" title="Networking Devices and Initial Configuration Cisco Course" alt="Networking Devices and Initial Configuration Cisco Course" width="257"/>&nbsp;
+</a> -->
+<a href="https://www.credly.com/badges/605a81e7-55f6-4dc7-bea4-7aab3ba7fe38/public_url" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkingBasicsUpdate20260606-32-3ytuv5.pdf%20-%20Brave%2006_06_2026%2013_28_46.png" title="Networking Basics Cisco Course" alt="Networking Basics Cisco Course" width="257"/>&nbsp;
+</a>
 <a href="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6" target="_blank">
   <img src="https://cs50.harvard.edu/certificates/592e207d-fc25-4497-9073-4aa12aeca9c6.png?size=letter" title="Database with SQL Harvard Course" alt="Database with SQL Harvard Course" width="257"/>&nbsp;
 </a>
