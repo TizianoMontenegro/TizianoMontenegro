@@ -43,7 +43,7 @@ __/\\\\\\\\\\\\\\\______________________________________________________________
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,mcp,scikitlearn,opencv,gradio)
 
 ## Python Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,django,djangorestframework,sqlite,jwt)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,fastapi,django,djangorestframework,sqlite,jwt)
 
 ## TypeScript Frontend and Web
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css,react,tanstack,tailwindcss,gsap)
