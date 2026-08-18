@@ -129,12 +129,14 @@ STANDARD IMG SIZES
   <img src="" title=" Cisco Course" alt=" Cisco Course" width="257"/>&nbsp;
 </a> 
 -->
-<!-- <a href="" target="_blank">
-  <img src="" title=" Cisco Course" alt=" Cisco Course" width="257"/>&nbsp;
+
+<a href="https://www.credly.com/badges/b4c2266f-e644-4623-8be5-76153d4b4431/public_url" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkAddressingandBasicTroubleshootingUpdate20260708-20-jp98x1.png" title="Network Addressing and Basic Troubleshooting Cisco Course" alt="Network Addressing and Basic Troubleshooting Cisco Course" width="257"/>&nbsp;
 </a>
-<a href="" target="_blank">
-  <img src="" title="Networking Devices and Initial Configuration Cisco Course" alt="Networking Devices and Initial Configuration Cisco Course" width="257"/>&nbsp;
-</a> -->
+<a href="https://www.credly.com/badges/7b291654-065f-48a5-873d-ae74586adfbb/public_url" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkingDevicesandBasicConfigUpdate20260624-30-b17nie.png" title="Networking Devices and Initial Configuration Cisco Course" alt="Networking Devices and Initial Configuration Cisco Course" width="257"/>&nbsp;
+</a>
+
 <a href="https://www.credly.com/badges/605a81e7-55f6-4dc7-bea4-7aab3ba7fe38/public_url" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkingBasicsUpdate20260606-32-3ytuv5.pdf%20-%20Brave%2006_06_2026%2013_28_46.png" title="Networking Basics Cisco Course" alt="Networking Basics Cisco Course" width="257"/>&nbsp;
 </a>
