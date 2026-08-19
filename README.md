@@ -1,4 +1,4 @@
-<!--
+ <!--
 ```
 ▄▄▄▄▄▪  ·▄▄▄▄•▪   ▄▄▄·  ▐ ▄           • ▌ ▄ ·.        ▐ ▄ ▄▄▄▄▄▄▄▄ . ▐ ▄ ▄▄▄ . ▄▄ • ▄▄▄        
 •██  ██ ▪▀·.█▌██ ▐█ ▀█ •█▌▐█▪         ·██ ▐███▪▪     •█▌▐█•██  ▀▄.▀·•█▌▐█▀▄.▀·▐█ ▀ ▪▀▄ █·▪     
@@ -129,7 +129,10 @@ STANDARD IMG SIZES
   <img src="" title=" Cisco Course" alt=" Cisco Course" width="257"/>&nbsp;
 </a> 
 -->
-
+ 
+<a href="https://www.credly.com/badges/831d815c-8c93-4ee4-a46d-2a0b280afcc4/public_url" target="_blank">
+  <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkSupportandSecurityUpdate20260817-21-f1qpxd.png" title="Network Support and Security Cisco Course" alt="Network Support and Security Cisco Course" width="257"/>&nbsp;
+</a>
 <a href="https://www.credly.com/badges/b4c2266f-e644-4623-8be5-76153d4b4431/public_url" target="_blank">
   <img src="https://github.com/TizianoMontenegro/CERTIFICATES/blob/main/NetworkAddressingandBasicTroubleshootingUpdate20260708-20-jp98x1.png" title="Network Addressing and Basic Troubleshooting Cisco Course" alt="Network Addressing and Basic Troubleshooting Cisco Course" width="257"/>&nbsp;
 </a>
